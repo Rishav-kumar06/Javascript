@@ -1,1 +1,2 @@
-# Starting of java svript
+# Starting of javascript
+
